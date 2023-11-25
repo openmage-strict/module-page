@@ -1,0 +1,8 @@
+src/app/code/core/Mage/Page/                                     app/code/core/Mage/Page/
+src/app/design/adminhtml/default/default/template/page/          app/design/adminhtml/default/default/template/page/
+src/app/design/frontend/base/default/layout/page.xml             app/design/frontend/base/default/layout/page.xml
+src/app/design/frontend/base/default/template/page/              app/design/frontend/base/default/template/page/
+src/app/design/frontend/rwd/default/layout/page.xml              app/design/frontend/rwd/default/layout/page.xml
+src/app/design/frontend/rwd/default/template/page/               app/design/frontend/rwd/default/template/page/
+src/app/etc/modules/Mage_Page.xml                                app/etc/modules/Mage_Page.xml
+src/app/locale/en_US/Mage_Page.csv                               app/locale/en_US/Mage_Page.csv
